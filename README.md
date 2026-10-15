@@ -1,5 +1,4 @@
-<!-- Light modern palette: cream #FFF8F0 · peach #FFE9CC · saffron #E07A1F · rose #D6456B · ink #2B2118 · sand border #F0D9BD -->
-<!-- Replace YOUR_GITHUB_USERNAME and YOUR-LINKEDIN-ID before publishing -->
+
 
 <div align="center">
 
