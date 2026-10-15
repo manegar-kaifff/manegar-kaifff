@@ -21,7 +21,7 @@
 
 <!-- ===================== LINKS ===================== -->
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank"><img src="assets/btn-linkedin.svg" width="32%" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/manegarkaif" target="_blank"><img src="assets/btn-linkedin.svg" width="32%" alt="LinkedIn" /></a>
   <a href="https://kaggle.com/manegarkaif" target="_blank"><img src="assets/btn-kaggle.svg" width="32%" alt="Kaggle" /></a>
   <a href="https://instagram.com/manegar_kaifff" target="_blank"><img src="assets/btn-instagram.svg" width="32%" alt="Instagram" /></a>
 </p>
